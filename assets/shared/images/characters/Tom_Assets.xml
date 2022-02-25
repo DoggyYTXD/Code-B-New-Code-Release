@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tom.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tom Down instance 10000" x="5" y="5" width="379" height="646" frameX="0" frameY="-10" frameWidth="379" frameHeight="657"/>
+	<SubTexture name="Tom Down instance 10001" x="386" y="5" width="379" height="645" frameX="0" frameY="-11" frameWidth="379" frameHeight="657"/>
+	<SubTexture name="Tom Down instance 10002" x="767" y="5" width="365" height="654" frameX="-7" frameY="-2" frameWidth="379" frameHeight="657"/>
+	<SubTexture name="Tom Down instance 10003" x="1134" y="5" width="364" height="657" frameX="-7" frameY="0" frameWidth="379" frameHeight="657"/>
+	<SubTexture name="Tom Down instance 10004" x="1500" y="5" width="364" height="657" frameX="-7" frameY="0" frameWidth="379" frameHeight="657"/>
+	<SubTexture name="Tom Down instance 10005" x="1866" y="5" width="365" height="654" frameX="-7" frameY="-2" frameWidth="379" frameHeight="657"/>
+	<SubTexture name="Tom Down instance 10006" x="767" y="5" width="365" height="654" frameX="-7" frameY="-2" frameWidth="379" frameHeight="657"/>
+	<SubTexture name="Tom Down instance 10007" x="1134" y="5" width="364" height="657" frameX="-7" frameY="0" frameWidth="379" frameHeight="657"/>
+	<SubTexture name="Tom Idle instance 10000" x="2233" y="5" width="326" height="721" frameX="0" frameY="-7" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10001" x="2233" y="5" width="326" height="721" frameX="0" frameY="-7" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10002" x="2561" y="5" width="323" height="723" frameX="-1" frameY="-6" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10003" x="2561" y="5" width="323" height="723" frameX="-1" frameY="-6" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10004" x="2886" y="5" width="316" height="727" frameX="-4" frameY="-1" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10005" x="2886" y="5" width="316" height="727" frameX="-4" frameY="-1" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10006" x="3204" y="5" width="314" height="729" frameX="-5" frameY="0" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10007" x="3204" y="5" width="314" height="729" frameX="-5" frameY="0" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10008" x="3520" y="5" width="315" height="728" frameX="-4" frameY="0" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10009" x="3520" y="5" width="315" height="728" frameX="-4" frameY="0" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10010" x="3204" y="5" width="314" height="729" frameX="-5" frameY="0" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10011" x="3204" y="5" width="314" height="729" frameX="-5" frameY="0" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10012" x="3520" y="5" width="315" height="728" frameX="-4" frameY="0" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Idle instance 10013" x="3520" y="5" width="315" height="728" frameX="-4" frameY="0" frameWidth="326" frameHeight="729"/>
+	<SubTexture name="Tom Left instance 10000" x="5" y="736" width="371" height="718" frameX="0" frameY="-1" frameWidth="372" frameHeight="720"/>
+	<SubTexture name="Tom Left instance 10001" x="378" y="736" width="370" height="718" frameX="0" frameY="-2" frameWidth="372" frameHeight="720"/>
+	<SubTexture name="Tom Left instance 10002" x="750" y="736" width="362" height="719" frameX="-8" frameY="-1" frameWidth="372" frameHeight="720"/>
+	<SubTexture name="Tom Left instance 10003" x="1114" y="736" width="364" height="719" frameX="-8" frameY="0" frameWidth="372" frameHeight="720"/>
+	<SubTexture name="Tom Left instance 10004" x="1480" y="736" width="364" height="719" frameX="-8" frameY="0" frameWidth="372" frameHeight="720"/>
+	<SubTexture name="Tom Left instance 10005" x="1846" y="736" width="362" height="719" frameX="-8" frameY="-1" frameWidth="372" frameHeight="720"/>
+	<SubTexture name="Tom Right instance 10000" x="2210" y="736" width="349" height="724" frameX="-1" frameY="-1" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="Tom Right instance 10001" x="2561" y="736" width="350" height="724" frameX="0" frameY="-2" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="Tom Right instance 10002" x="2913" y="736" width="339" height="724" frameX="-2" frameY="-2" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="Tom Right instance 10003" x="3254" y="736" width="341" height="725" frameX="-1" frameY="0" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="Tom Right instance 10004" x="3597" y="736" width="341" height="725" frameX="-1" frameY="0" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="Tom Right instance 10005" x="5" y="1463" width="339" height="724" frameX="-2" frameY="-2" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="Tom Right instance 10006" x="2913" y="736" width="339" height="724" frameX="-2" frameY="-2" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="Tom Up instance 10000" x="346" y="1463" width="303" height="737" frameX="-2" frameY="0" frameWidth="310" frameHeight="737"/>
+	<SubTexture name="Tom Up instance 10001" x="651" y="1463" width="302" height="736" frameX="-2" frameY="-1" frameWidth="310" frameHeight="737"/>
+	<SubTexture name="Tom Up instance 10002" x="955" y="1463" width="309" height="730" frameX="0" frameY="-7" frameWidth="310" frameHeight="737"/>
+	<SubTexture name="Tom Up instance 10003" x="1266" y="1463" width="310" height="730" frameX="0" frameY="-6" frameWidth="310" frameHeight="737"/>
+	<SubTexture name="Tom Up instance 10004" x="1578" y="1463" width="310" height="730" frameX="0" frameY="-6" frameWidth="310" frameHeight="737"/>
+	<SubTexture name="Tom Up instance 10005" x="1890" y="1463" width="309" height="730" frameX="0" frameY="-7" frameWidth="310" frameHeight="737"/>
+	<SubTexture name="Tom Up instance 10006" x="955" y="1463" width="309" height="730" frameX="0" frameY="-7" frameWidth="310" frameHeight="737"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+hey -53 46
+idle -65 60
+singDOWN -67 30
+singRIGHT -74 61
+singUP -89 107
+singLEFT -38 77

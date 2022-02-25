@@ -1,0 +1,11 @@
+scared -5 320
+singRIGHTmiss -5 320
+singDOWN 0 260
+singLEFTmiss -5 320
+singUP -43 373
+idle -5 320
+hey -29 333
+singDOWNmiss -5 320
+singRIGHT -18 313
+singLEFT 22 338
+singUPmiss -5 320

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Escape_NOTE_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="78" height="159"/>
+	<SubTexture name="green0000" x="78" y="0" width="92" height="147"/>
+	<SubTexture name="purple0000" x="170" y="0" width="143" height="89"/>
+	<SubTexture name="red0000" x="313" y="0" width="165" height="82"/>
+</TextureAtlas>

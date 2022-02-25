@@ -1,0 +1,10 @@
+singRIGHTmiss 100 350
+singDOWN 10 293
+singLEFTmiss 100 350
+singUP 72 367
+hey 72 367
+idle 100 350
+singDOWNmiss 100 350
+singRIGHT 0 394
+singLEFT 81 341
+singUPmiss 100 350

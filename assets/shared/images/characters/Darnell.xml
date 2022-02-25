@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Darnell.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DarnellIdle0000" x="0" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0001" x="0" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0002" x="445" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0003" x="445" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0004" x="890" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0005" x="890" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0006" x="1335" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0007" x="1335" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0008" x="1780" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0009" x="1780" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0010" x="1780" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0011" x="1780" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0012" x="1780" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdle0013" x="1780" y="0" width="445" height="489"/>
+	<SubTexture name="DarnellIdleDown0000" x="2225" y="0" width="446" height="465"/>
+	<SubTexture name="DarnellIdleDown0001" x="2225" y="0" width="446" height="465"/>
+	<SubTexture name="DarnellIdleDown0002" x="2671" y="0" width="446" height="465"/>
+	<SubTexture name="DarnellIdleDown0003" x="2671" y="0" width="446" height="465"/>
+	<SubTexture name="DarnellIdleDown0004" x="2671" y="0" width="446" height="465"/>
+	<SubTexture name="DarnellIdleDown0005" x="2671" y="0" width="446" height="465"/>
+	<SubTexture name="DarnellIdleHEY!!0000" x="3117" y="0" width="365" height="482"/>
+	<SubTexture name="DarnellIdleHEY!!0001" x="3117" y="0" width="365" height="482"/>
+	<SubTexture name="DarnellIdleHEY!!0002" x="3482" y="0" width="365" height="482"/>
+	<SubTexture name="DarnellIdleHEY!!0003" x="3482" y="0" width="365" height="482"/>
+	<SubTexture name="DarnellIdleHEY!!0004" x="0" y="489" width="365" height="482"/>
+	<SubTexture name="DarnellIdleHEY!!0005" x="0" y="489" width="365" height="482"/>
+	<SubTexture name="DarnellIdleHEY!!0006" x="0" y="489" width="365" height="482"/>
+	<SubTexture name="DarnellIdleHEY!!0007" x="0" y="489" width="365" height="482"/>
+	<SubTexture name="DarnellIdleHEY!!0008" x="0" y="489" width="365" height="482"/>
+	<SubTexture name="DarnellIdleLeft0000" x="365" y="489" width="442" height="505"/>
+	<SubTexture name="DarnellIdleLeft0001" x="365" y="489" width="442" height="505"/>
+	<SubTexture name="DarnellIdleLeft0002" x="807" y="489" width="442" height="505"/>
+	<SubTexture name="DarnellIdleLeft0003" x="807" y="489" width="442" height="505"/>
+	<SubTexture name="DarnellIdleLeft0004" x="807" y="489" width="442" height="505"/>
+	<SubTexture name="DarnellIdleLeft0005" x="807" y="489" width="442" height="505"/>
+	<SubTexture name="DarnellIdleLeft0006" x="807" y="489" width="442" height="505"/>
+	<SubTexture name="DarnellIdleLeft0007" x="807" y="489" width="442" height="505"/>
+	<SubTexture name="DarnellIdleLeft0008" x="807" y="489" width="442" height="505"/>
+	<SubTexture name="DarnellIdleRight0000" x="1249" y="489" width="465" height="489"/>
+	<SubTexture name="DarnellIdleRight0001" x="1249" y="489" width="465" height="489"/>
+	<SubTexture name="DarnellIdleRight0002" x="1714" y="489" width="465" height="489"/>
+	<SubTexture name="DarnellIdleRight0003" x="1714" y="489" width="465" height="489"/>
+	<SubTexture name="DarnellIdleRight0004" x="1714" y="489" width="465" height="489"/>
+	<SubTexture name="DarnellIdleRight0005" x="1714" y="489" width="465" height="489"/>
+	<SubTexture name="DarnellIdleRight0006" x="1714" y="489" width="465" height="489"/>
+	<SubTexture name="DarnellIdleRight0007" x="1714" y="489" width="465" height="489"/>
+	<SubTexture name="DarnellIdleUpPose0000" x="2179" y="489" width="407" height="540"/>
+	<SubTexture name="DarnellIdleUpPose0001" x="2179" y="489" width="407" height="540"/>
+	<SubTexture name="DarnellIdleUpPose0002" x="2586" y="489" width="407" height="540"/>
+	<SubTexture name="DarnellIdleUpPose0003" x="2586" y="489" width="407" height="540"/>
+	<SubTexture name="DarnellIdleUpPose0004" x="2586" y="489" width="407" height="540"/>
+	<SubTexture name="DarnellIdleUpPose0005" x="2586" y="489" width="407" height="540"/>
+	<SubTexture name="DarnellIdleUpPose0006" x="2586" y="489" width="407" height="540"/>
+	<SubTexture name="DarnellIdleUpPose0007" x="2586" y="489" width="407" height="540"/>
+</TextureAtlas>

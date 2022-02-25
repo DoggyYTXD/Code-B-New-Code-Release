@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Unlock.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Awards Unlocked0000" x="0" y="0" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0001" x="609" y="0" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0002" x="1218" y="0" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0003" x="1827" y="0" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0004" x="2436" y="0" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0005" x="3045" y="0" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0006" x="0" y="318" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0007" x="609" y="318" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0008" x="1218" y="318" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0009" x="1827" y="318" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0010" x="2436" y="318" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0011" x="3045" y="318" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0012" x="0" y="636" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0013" x="609" y="636" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0014" x="1218" y="636" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0015" x="1827" y="636" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0016" x="2436" y="636" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0017" x="3045" y="636" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0018" x="0" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0019" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0020" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0021" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0022" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0023" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0024" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0025" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0026" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0027" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0028" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0029" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0030" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0031" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0032" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0033" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0034" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0035" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0036" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0037" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0038" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0039" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0040" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0041" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0042" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0043" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0044" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0045" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0046" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0047" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0048" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0049" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0050" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0051" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0052" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0053" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0054" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0055" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0056" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0057" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0058" x="609" y="954" width="609" height="318"/>
+	<SubTexture name="Awards Unlocked0059" x="609" y="954" width="609" height="318"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+scared -5 50
+singRIGHTmiss -5 50
+singDOWN -10 51
+singLEFTmiss -5 50
+singUP -9 51
+idle -5 50
+singDOWNmiss -5 50
+singRIGHT -8 50
+singLEFT 2 56
+singUPmiss -5 50

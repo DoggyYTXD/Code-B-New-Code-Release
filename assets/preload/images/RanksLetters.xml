@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RanksLetters.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A0000" x="0" y="0" width="508" height="594"/>
+	<SubTexture name="B0000" x="508" y="0" width="493" height="594"/>
+	<SubTexture name="C0000" x="1001" y="0" width="478" height="606"/>
+	<SubTexture name="D0000" x="1479" y="0" width="517" height="601"/>
+	<SubTexture name="E0000" x="0" y="606" width="493" height="594"/>
+	<SubTexture name="F0000" x="493" y="606" width="484" height="592"/>
+	<SubTexture name="S0000" x="977" y="606" width="455" height="699"/>
+	<SubTexture name="S S0000" x="1432" y="606" width="515" height="612"/>
+</TextureAtlas>

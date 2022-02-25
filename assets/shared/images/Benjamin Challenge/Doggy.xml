@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Doggy.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Doggy Idle0000" x="0" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0001" x="0" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0002" x="311" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0003" x="311" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0004" x="622" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0005" x="622" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0006" x="311" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0007" x="311" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0008" x="0" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0009" x="0" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0010" x="933" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0011" x="933" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0012" x="933" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0013" x="933" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Idle0014" x="933" y="0" width="311" height="593"/>
+	<SubTexture name="Doggy Walk0000" x="1244" y="0" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0001" x="1244" y="0" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0002" x="1622" y="0" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0003" x="1622" y="0" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0004" x="0" y="607" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0005" x="0" y="607" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0006" x="0" y="607" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0007" x="378" y="607" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0008" x="378" y="607" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0009" x="756" y="607" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0010" x="756" y="607" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0011" x="1134" y="607" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0012" x="1134" y="607" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0013" x="1512" y="607" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0014" x="0" y="1214" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0015" x="378" y="1214" width="378" height="607"/>
+	<SubTexture name="Doggy Walk0016" x="378" y="1214" width="378" height="607"/>
+</TextureAtlas>
